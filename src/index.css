@@ -1,0 +1,17 @@
+
+.theCounter{
+    text-align: center;
+    background: black;
+
+}
+.theCounter div{
+    display:inline-block;
+    font-size:70px;
+    line-height: 70px;
+    height: 70px;
+    background :#262626;
+    color:red;
+    padding: 10px;
+    margin: 3px
+
+}
